@@ -7,7 +7,9 @@ Usecase Diagram :
 
 Low Level Design
 Level Zero DFD:
-![image](https://user-images.githubusercontent.com/98837001/152692478-3fe3c697-dd0f-47ba-9608-0f85a961573d.png)
+![1](https://user-images.githubusercontent.com/98837001/152735988-8efc66f9-0b2f-44ae-b82b-d541fadbb92d.jpg)
+
 
 Level One DFD:
-![image](https://user-images.githubusercontent.com/98837001/152692502-9828f296-6d8c-4c75-be61-88f8572caf19.png)
+![2](https://user-images.githubusercontent.com/98837001/152736018-122e89b7-63e4-4bc7-9143-9398b3ca8cec.jpg)
+
