@@ -1,4 +1,3 @@
-TEST PLAN
 Test ID	Description
 Exp I/P
 Exp O/P
